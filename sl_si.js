@@ -1,6 +1,5 @@
-{
-	"Select Language": "Izberite jezik", 
-	"English": "Angleščina", 
+{"Select Language": "Izberite jezik",
+	"English": "Slovenčina", 
 	"Bitcoin Teller Machine": "Bitcoin bankomat", 
 	"START": "Začetek", 
 	"Identity": "Identiteta",
@@ -13,7 +12,7 @@
 	"Wallet Info": "Informacije o denarnici", 
 	"Enter your Mobile Number": "Vnesite svojo mobilno številko",
 	"Please enter your mobile number to verify your identity": "Prosimo, vnesite svojo mobilno številko za potrditev identitete", 
-	"Proceed": "Postopek v teku", 
+	"Proceed": "Potrdi", 
 	"We're very sorry, the machine is temporarily out of service.": "Opravičujemo se, bankomat trenutno ne deluje.", 
 	"Close": "Zaprto", 
 	"Buy Bitcoins": "Kupi Bitcoine", 
