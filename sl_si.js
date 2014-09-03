@@ -1,5 +1,5 @@
 {"Select Language": "Izberite jezik",
-	"English": "Slovenčina", 
+	"English": "Slovenščina", 
 	"Bitcoin Teller Machine": "Bitcoin bankomat", 
 	"START": "Začetek", 
 	"Identity": "Identiteta",
